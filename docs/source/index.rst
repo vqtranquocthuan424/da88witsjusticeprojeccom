@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+DA88 - Nhà Cái Cá Cược Thể Thao và Casino Hàng Đầu Tại Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+DA88 là nhà cái cá cược thể thao và casino trực tuyến nổi bật, ra đời từ năm 2018. Với hơn 26 triệu thành viên đăng ký và tải ứng dụng, DA88 cung cấp nền tảng cá cược chất lượng cao và dịch vụ khách hàng tận tâm, trở thành sự lựa chọn đáng tin cậy tại châu Á. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Tại DA88, người chơi có thể tham gia cá cược thể thao với các kèo bóng đá, bóng rổ, tennis, và esports, cùng với sảnh thể thao tiêu chuẩn quốc tế. Bên cạnh đó, DA88 còn nổi bật với kho game đổi thưởng đa dạng, từ trò chơi dân gian đến các game mới lạ. Đảm bảo môi trường cá cược công bằng, an toàn và minh bạch, DA88 chính là điểm đến lý tưởng cho những ai đam mê cá cược và giải trí.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 88/50M Đường Tân Chánh Hiệp 13, Tân Chánh Hiệp, Quận 12, Hồ Chí Minh 700000, Việt Nam. 
 
-Contents
---------
+Phone: 0980320222. 
 
-.. toctree::
+Email: da88witsjusticeproject@gmail.com. 
 
-   usage
-   api
+Website: https://witsjusticeproject.com/
+
+#da88 #nhacaida88 #trangchuda88 #dangkyda88 #linkda88
